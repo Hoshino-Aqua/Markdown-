@@ -83,7 +83,9 @@ $$
 
 [都在这里面了](https://zhuanlan.zhihu.com/p/450465546)（大概）
 
-[官方文档](https://markdown.com.cn/editor/)（权威）
+[官方文档](https://markdown.com.cn/editor/)（权威）  
+
+[教学视频](https://www.bilibili.com/video/BV1eJ4m157kC)
 
 [a]:https://www.bilibili.com/video/BV1Mg9SYZEFD
 [^1]:这是注释
